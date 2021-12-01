@@ -1,5 +1,5 @@
 # About
-Simple static website that tells you a joke when you click a button [Live site]() <br>
+Simple static website that tells you a joke when you click a button [Live site](https://clupai8o0.github.io/joke-teller/) <br>
 ![preview](assets/img/preview.png)
 
 ### APIs used
